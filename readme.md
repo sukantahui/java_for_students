@@ -11,6 +11,9 @@
   <span>CCCCC</span>
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/sukantahui?style=social">
 
+  <img alt="You tube" src="https://img.shields.io/youtube/channel/subscribers/UCYM4m3Nuo-eZAWPrB13N8FQ?style=social">
+  
+
 <sub>Author:
 <a href="https://www.linkedin.com/in/sukantahui/" target="_blank">Sukanta Hui</a><br>
 <small> Second Edition: July, 2022</small>
