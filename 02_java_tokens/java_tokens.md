@@ -20,7 +20,7 @@
 
 - [📘 Java Tokens](#-java-tokens)
   - [Keywords](#Keywords)
-  - [Variables](#variables)
+  - [Identifiers](#identifiers)
     - [Declaring Multiple Variable in a Line](#declaring-multiple-variable-in-a-line)
   - [Data Types](#data-types)
   - [Checking Data types and Casting](#checking-data-types-and-casting)
@@ -36,75 +36,36 @@
 Keywords are pre-defined or reserved words in a programming language. Each keyword is meant to perform a specific function in a program. Since keywords are referred names for a compiler, they can’t be used as variable names because by doing so, we are trying to assign a new meaning to the keyword which is not allowed. Java language supports following keywords: 
 [Check our website](https://eduvenv.in/#/courseContent).
 ```shell
-abstract     assert      boolean      
-break        byte        case
-catch        char        class        
-const        continue    default
-do           double      else         
-enum         exports     extends
-final        finally     float        
-for          goto        if
-implements   import      instanceof   
-int          interface   long
-module       native      new          
-open         opens       package
-private      protected   provides     
-public       requires    return
-short        static      strictfp     
-super        switch      synchronized
-this         throw       throws       
-to           transient   transitive
-try          uses        void         
-volatile     while       with  
+01. abstract 	    02. boolean 	03. byte 	04. break 	05. class
+06. case 	        07. catch 	08. char 	09. continue 	10. default
+11. do 	          12. double 	13. else 	14. extends 	15. final
+16. finally 	    17. float 	18. for 	19. if 	20. implements
+21. import 	      22. instanceof 	23. int 	24. interface 	25. long
+26. native 	      27. new 	28. package 	29. private 	30. protected
+31. public 	      32. return 	33. short 	34. static 	35. super
+36. switch 	      37. synchronized 	38. this 	39. thro	40. throws
+41. transient 	  42. try 	43. void 	44. volatile 	45. while
+46. assert 	      47. const 	48. enum 	49. goto 	50. strictfp
 ```
 
+## Identifiers
 
-![Built-in Functions](../images/builtin-functions.png)
+Identifiers are used as the general terminology for naming of variables, functions and arrays. These are user-defined names consisting of an arbitrarily long sequence of letters and digits with either a letter or the underscore(_) as a first character. Identifier names must differ in spelling and case from any keywords. You cannot use keywords as identifiers; they are reserved for special use. Once declared, you can use the identifier in later program statements to refer to the associated value. A special kind of identifier, called a statement label, can be used in goto statements.
 
-Let us open the Python shell and start using some of the most common built-in functions.
-
-![Built-in functions](../images/builtin-functions_practice.png)
-
-Let us practice more by using different built-in functions
-
-![Help and Dir Built in Functions](../images/help_and_dir_builtin.png)
-
-As you can see from the terminal above, Python has got reserved words. We do not use reserved words to declare variables or functions. We will cover variables in the next section.
-
-I believe, by now you are familiar with built-in functions. Let us do one more practice of built-in functions and we will move on to the next section.
-
-![Min Max Sum](../images/builtin-functional-final.png)
-
-## Variables
-
-Variables store data in a computer memory. Mnemonic variables are recommended to use in many programming languages. A mnemonic variable is a variable name that can be easily remembered and associated. A variable refers to a memory address in which data is stored.
-Number at the beginning, special character, hyphen are not allowed when naming a variable. A variable can have a short name (like x, y, z), but a more descriptive name (firstname, lastname, age, country) is highly recommended.
-
-Python Variable Name Rules
-
-- A variable name must start with a letter or the underscore character
-- A variable name cannot start with a number
-- A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and \_ )
-- Variable names are case-sensitive (firstname, Firstname, FirstName and FIRSTNAME) are different variables)
-
-Let us se valid variable names
+Examples of valid identifiers :
 
 ```shell
-firstname
-lastname
-age
-country
-city
-first_name
-last_name
-capital_city
-_if # if we want to use reserved word as a variable
-year_2021
-year2021
-current_year_2021
-birth_year
-num1
-num2
+MyVariable
+MYVARIABLE
+myvariable
+x
+i
+x1
+i1
+_myvariable
+$myvariable
+sum_of_array
+geeks123
 ```
 
 Invalid variables names
