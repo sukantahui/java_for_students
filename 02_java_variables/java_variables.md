@@ -16,7 +16,7 @@
 
 [<<Home](../readme.md) | [Day 3 >>](../03_Day_Operators/03_operators.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../images/java_banner3@2x.png)
 
 - [📘 Day 2](#-day-2)
   - [Built in functions](#built-in-functions)
