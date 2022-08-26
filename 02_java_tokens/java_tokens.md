@@ -19,7 +19,7 @@
 ![30DaysOfPython](../images/java_banner3@2x.png)
 
 - [📘 Java Tokens](#-java-tokens)
-  - [Built in functions](#built-in-functions)
+  - [Keywords](#Keywords)
   - [Variables](#variables)
     - [Declaring Multiple Variable in a Line](#declaring-multiple-variable-in-a-line)
   - [Data Types](#data-types)
@@ -31,7 +31,7 @@
 
 # 📘 Java Tokens
 
-## Built in functions
+## Keywords
 
 In Python we have lots of built-in functions. Built-in functions are globally available for your use that mean you can make use of the built-in functions without importing or configuring. Some of the most commonly used Python built-in functions are the following: _print()_, _len()_, _type()_, _int()_, _float()_, _str()_, _input()_, _list()_, _dict()_, _min()_, _max()_, _sum()_, _sorted()_, _open()_, _file()_, _help()_, and _dir()_. In the following table you will see an exhaustive list of Python built-in functions taken from [python documentation](https://docs.python.org/3.9/library/functions.html).
 
