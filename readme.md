@@ -8,6 +8,7 @@
   <a class="header-badge" target="_blank" href="https://twitter.com/sukantahui">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/sukantahui?style=social">
   </a>
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/sukantahui?style=social">
 
 <sub>Author:
 <a href="https://www.linkedin.com/in/sukantahui/" target="_blank">Sukanta Hui</a><br>
