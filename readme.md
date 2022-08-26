@@ -8,10 +8,8 @@
   <a class="header-badge" target="_blank" href="https://twitter.com/sukantahui">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/sukantahui?style=social">
   </a>
-  <span>CCCCC</span>
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/sukantahui?style=social">
-
-  <img alt="You tube" src="https://img.shields.io/youtube/channel/subscribers/UCYM4m3Nuo-eZAWPrB13N8FQ?style=social">
+  
+  <img alt="YouTube Video Likes" src="https://img.shields.io/youtube/likes/o6yfsdKn6rE?style=social">
   
 
 <sub>Author:
