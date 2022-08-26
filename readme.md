@@ -8,10 +8,11 @@
   <a class="header-badge" target="_blank" href="https://twitter.com/sukantahui">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/sukantahui?style=social">
   </a>
+  <a class="header-badge" target="_blank" href="https://youtu.be/o6yfsdKn6rE">
+      <img alt="Twitter Follow" src="https://img.shields.io/youtube/likes/o6yfsdKn6rE?style=social">
+  </a>
+
   
-  <iframe width="1033" height="689" src="https://www.youtube.com/embed/o6yfsdKn6rE" title="Ritaja's Birthday Wish" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-  <img alt="YouTube Video Likes" src="https://img.shields.io/youtube/likes/o6yfsdKn6rE?style=social">
-  </iframe>
 
   
   
