@@ -70,21 +70,15 @@ Identifiers are used as the general terminology for naming of variables, functio
 Examples of valid identifiers :
 
 ```shell
-firstname
-lastname
-age
-country
-city
-first_name
-last_name
-capital_city
-_if # if we want to use reserved word as a variable
-year_2021
-year2021
-current_year_2021
-birth_year
-num1
-num2
+PhoneNumber  
+PRICE  
+radius  
+a  
+a1  
+_phonenumber  
+$circumference  
+jagged_array  
+12radius   //invalid  
 ```
 
 Invalid variables names
