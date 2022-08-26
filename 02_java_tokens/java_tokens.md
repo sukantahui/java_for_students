@@ -21,6 +21,7 @@
 - [📘 Java Tokens](#-java-tokens)
   - [Keywords](#Keywords)
   - [Identifiers](#identifiers)
+  - [Literals](#literals)
     - [Declaring Multiple Variable in a Line](#declaring-multiple-variable-in-a-line)
   - [Data Types](#data-types)
   - [Checking Data types and Casting](#checking-data-types-and-casting)
@@ -80,100 +81,16 @@ $circumference
 jagged_array  
 12radius   //invalid  
 ```
+## Literals
 
-Invalid variables names
+In programming literal is a notation that represents a fixed value (constant) in the source code. It can be categorized as an integer literal, string literal, Boolean literal, etc. It is defined by the programmer. Once it has been defined cannot be changed. Java provides five types of literals are as follows:
 
-```shell
-first-name
-first@name
-first$name
-num-1
-1num
-```
+  -  Integer
+  -  Floating Point
+  -  Character
+  -  String
+  -  Boolean
 
-We will use standard Python variable naming style which has been adopted by many Python developers. Python developers use snake case(snake_case) variable naming convention. We use underscore character after each word for a variable containing more than one word(eg. first_name, last_name, engine_rotation_speed).  The example below is an example of standard naming of variables, underscore is required when the variable name is more than one word.
-
-When we assign a certain data type to a variable, it is called variable declaration. For instance in the example below my first name is assigned to a variable first_name. The equal sign is an assignment operator. Assigning means storing data in the variable. The equal sign in Python is not equality as in Mathematics.
-
-_Example:_
-
-```py
-# Variables in Python
-first_name = 'Sukanta'
-last_name = 'Hui'
-country = 'India'
-city = 'Barrackpore'
-age = 46
-is_married = True
-skills = ['HTML', 'CSS', 'JS', 'React', 'Python']
-person_info = {
-   'firstname':'Sukanta',
-   'lastname':'Hui',
-   'country':'India',
-   'city':'Barrackpore'
-   }
-```
-
-Let us use the _print()_ and _len()_ built-in functions. Print function takes unlimited number of arguments. An argument is a value which we can be passed or put inside the function parenthesis, see the example below.
-
-**Example:**
-
-```py
-print('Hello, World!') # The text Hello, World! is an argument
-print('Hello',',', 'World','!') # it can take multiple arguments, four arguments have been passed
-print(len('Hello, World!')) # it takes only one argument
-```
-
-Let us print and also find the length of the variables declared at the top:
-
-**Example:**
-
-```py
-# Printing the values stored in the variables
-
-print('First name:', first_name)
-print('First name length:', len(first_name))
-print('Last name: ', last_name)
-print('Last name length: ', len(last_name))
-print('Country: ', country)
-print('City: ', city)
-print('Age: ', age)
-print('Married: ', is_married)
-print('Skills: ', skills)
-print('Person information: ', person_info)
-```
-
-### Declaring Multiple Variable in a Line
-
-Multiple variables can also be declared in one line:
-
-**Example:**
-
-```py
-first_name, last_name, country, age, is_married = 'Sukanta', 'Hui', 'Helsink', 46, True
-
-print(first_name, last_name, country, age, is_married)
-print('First name:', first_name)
-print('Last name: ', last_name)
-print('Country: ', country)
-print('Age: ', age)
-print('Married: ', is_married)
-```
-
-Getting user input using the _input()_ built-in function. Let us assign the data we get from a user into first_name and age variables.
-**Example:**
-
-```py
-first_name = input('What is your name: ')
-age = input('How old are you? ')
-
-print(first_name)
-print(age)
-```
-
-## Data Types
-
-There are several data types in Python. To identify the data type we use the _type_ built-in function. I would like to ask you to focus on understanding different data types very well. When it comes to programming, it is all about data types. I introduced data types at the very beginning and it comes again, because every topic is related to data types. We will cover data types in more detail in their respective sections.
 
 ## Checking Data types and Casting
 
