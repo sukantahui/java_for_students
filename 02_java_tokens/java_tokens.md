@@ -62,6 +62,11 @@ volatile     while       with
 
 Identifiers are used as the general terminology for naming of variables, functions and arrays. These are user-defined names consisting of an arbitrarily long sequence of letters and digits with either a letter or the underscore(_) as a first character. Identifier names must differ in spelling and case from any keywords. You cannot use keywords as identifiers; they are reserved for special use. Once declared, you can use the identifier in later program statements to refer to the associated value. A special kind of identifier, called a statement label, can be used in goto statements.
 
+  -The first letter of an identifier must be a letter, underscore or a dollar sign. It cannot start with digits but may contain digits.
+  -The whitespace cannot be included in the identifier.
+  -Identifiers are case sensitive.
+
+
 Examples of valid identifiers :
 
 ```shell
