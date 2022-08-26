@@ -36,16 +36,26 @@
 Keywords are pre-defined or reserved words in a programming language. Each keyword is meant to perform a specific function in a program. Since keywords are referred names for a compiler, they can’t be used as variable names because by doing so, we are trying to assign a new meaning to the keyword which is not allowed. Java language supports following keywords: 
 [Check our website](https://eduvenv.in/#/courseContent).
 ```shell
-01. abstract 	    02. boolean 	03. byte 	04. break 	05. class
-06. case 	        07. catch 	08. char 	09. continue 	10. default
-11. do 	          12. double 	13. else 	14. extends 	15. final
-16. finally 	    17. float 	18. for 	19. if 	20. implements
-21. import 	      22. instanceof 	23. int 	24. interface 	25. long
-26. native 	      27. new 	28. package 	29. private 	30. protected
-31. public 	      32. return 	33. short 	34. static 	35. super
-36. switch 	      37. synchronized 	38. this 	39. thro	40. throws
-41. transient 	  42. try 	43. void 	44. volatile 	45. while
-46. assert 	      47. const 	48. enum 	49. goto 	50. strictfp
+abstract     assert      boolean      
+break        byte        case
+catch        char        class        
+const        continue    default
+do           double      else         
+enum         exports     extends
+final        finally     float        
+for          goto        if
+implements   import      instanceof   
+int          interface   long
+module       native      new          
+open         opens       package
+private      protected   provides     
+public       requires    return
+short        static      strictfp     
+super        switch      synchronized
+this         throw       throws       
+to           transient   transitive
+try          uses        void         
+volatile     while       with  
 ```
 
 ## Identifiers
@@ -55,17 +65,21 @@ Identifiers are used as the general terminology for naming of variables, functio
 Examples of valid identifiers :
 
 ```shell
-MyVariable
-MYVARIABLE
-myvariable
-x
-i
-x1
-i1
-_myvariable
-$myvariable
-sum_of_array
-geeks123
+firstname
+lastname
+age
+country
+city
+first_name
+last_name
+capital_city
+_if # if we want to use reserved word as a variable
+year_2021
+year2021
+current_year_2021
+birth_year
+num1
+num2
 ```
 
 Invalid variables names
