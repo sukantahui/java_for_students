@@ -34,7 +34,7 @@
 ## Keywords
 
 Keywords are pre-defined or reserved words in a programming language. Each keyword is meant to perform a specific function in a program. Since keywords are referred names for a compiler, they can’t be used as variable names because by doing so, we are trying to assign a new meaning to the keyword which is not allowed. Java language supports following keywords: 
-[python documentation](https://docs.python.org/3.9/library/functions.html).
+[Check our website](https://eduvenv.in/#/courseContent).
 ```shell
 abstract     assert      boolean      
 break        byte        case
