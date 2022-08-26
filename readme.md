@@ -19,7 +19,7 @@
 
 <sub>Author:
 <a href="https://www.linkedin.com/in/sukantahui/" target="_blank">Sukanta Hui</a><br>
-<small> Second Edition: July, 2022</small>
+<small> First Edition: August, 2022</small>
 </sub>
 </div>
 
@@ -30,7 +30,7 @@
 |# Day | Topics                                                    |
 |------|:---------------------------------------------------------:|
 | 01  |  [Introduction](./readme.md)|
-| 02  |  [Variables](./02_java_variables/java_variables.md)|
+| 02  |  [Tokens](./02_java_tokens/java_tokens.md)|
 | 03  |  [Operators](./03_Day_Operators/03_operators.md)|
 | 04  |  [Strings](./04_Day_Strings/04_strings.md)|
 | 05  |  [Lists](./05_Day_Lists/05_lists.md)|
