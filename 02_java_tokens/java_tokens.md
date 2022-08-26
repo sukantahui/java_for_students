@@ -33,7 +33,31 @@
 
 ## Keywords
 
-In Python we have lots of built-in functions. Built-in functions are globally available for your use that mean you can make use of the built-in functions without importing or configuring. Some of the most commonly used Python built-in functions are the following: _print()_, _len()_, _type()_, _int()_, _float()_, _str()_, _input()_, _list()_, _dict()_, _min()_, _max()_, _sum()_, _sorted()_, _open()_, _file()_, _help()_, and _dir()_. In the following table you will see an exhaustive list of Python built-in functions taken from [python documentation](https://docs.python.org/3.9/library/functions.html).
+Keywords are pre-defined or reserved words in a programming language. Each keyword is meant to perform a specific function in a program. Since keywords are referred names for a compiler, they can’t be used as variable names because by doing so, we are trying to assign a new meaning to the keyword which is not allowed. Java language supports following keywords: 
+[python documentation](https://docs.python.org/3.9/library/functions.html).
+```shell
+abstract     assert      boolean      
+break        byte        case
+catch        char        class        
+const        continue    default
+do           double      else         
+enum         exports     extends
+final        finally     float        
+for          goto        if
+implements   import      instanceof   
+int          interface   long
+module       native      new          
+open         opens       package
+private      protected   provides     
+public       requires    return
+short        static      strictfp     
+super        switch      synchronized
+this         throw       throws       
+to           transient   transitive
+try          uses        void         
+volatile     while       with  
+```
+
 
 ![Built-in Functions](../images/builtin-functions.png)
 
