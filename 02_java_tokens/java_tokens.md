@@ -18,7 +18,7 @@
 
 ![30DaysOfPython](../images/java_banner3@2x.png)
 
-- [📘 Day 2](#-day-2)
+- [📘 Java Tokens](#-java-tokens)
   - [Built in functions](#built-in-functions)
   - [Variables](#variables)
     - [Declaring Multiple Variable in a Line](#declaring-multiple-variable-in-a-line)
