@@ -43,7 +43,7 @@
 
 - [⚙️ JAVA Tutorial by CODER](#️-java-tutorial-by-coder)
 - [📘 Day 1](#-day-1)
-  - [Why Python ?](#why-python-)
+  - [Why Java ?](#why-java-)
   - [Environment Setup](#environment-setup)
     - [Installing Python](#installing-python)
     - [Python Shell](#python-shell)
@@ -70,10 +70,13 @@
 
 # 📘 Day 1
 
-## Why Python ?
+## Why Java ?
 
-It is a programming language which is very close to human language and because of that it is easy to learn and use.
-Python is used by various industries and companies (including Google). It has been used to develop web applications, desktop applications, system adminstration, and machine learning libraries. Python is highly embraced language in the data science and machine learning community. I hope this is enough to convince you to start learning Python. Python is eating the world and you are killing it before it eats you.
+Java is a programming language and a platform. Java is a high level, robust, object-oriented and secure programming language.
+
+Java was developed by Sun Microsystems (which is now the subsidiary of Oracle) in the year 1995. James Gosling is known as the father of Java. Before Java, its name was Oak. Since Oak was already a registered company, so James Gosling and his team changed the name from Oak to Java.
+
+Platform: Any hardware or software environment in which a program runs, is known as a platform. Since Java has a runtime environment (JRE) and API, it is called a platform.
 
 ## Environment Setup
 
