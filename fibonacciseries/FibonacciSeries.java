@@ -13,9 +13,9 @@ public class FibonacciSeries {
         int x=0;
         int y=1;
         sn = new Scanner(System.in);
-        System.out.print("Enter a number: ");
-        int n=sn.nextInt();
-        for(int i=1;i<=n;i++)
+        System.out.print("Enter term: ");
+        int term=sn.nextInt();
+        for(int i=1;i<=term;i++)
         {
            x+=y;
            y=x-y;
