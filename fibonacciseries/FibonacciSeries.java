@@ -10,18 +10,16 @@ import java.util.Scanner;
 public class FibonacciSeries {
     public static void main(String[] args) {
         Scanner sn;
+        int x=0;
+        int y=1;
         sn = new Scanner(System.in);
         System.out.print("Enter a number: ");
         int n=sn.nextInt();
-        int a=0;
-        int b=1;
-        System.out.print(a+","+b);
-        for(int x=0; x<n-2; x++){
-            int ans=a+b;
-            System.out.print(","+ans);
-            a=b;
-            b=ans;
-
+        for(int i=1;i<=n;i++)
+        {
+           x+=y;
+           y=x-y;
+           System.out.print(y+", ");
         }
         sn.close();
     }
