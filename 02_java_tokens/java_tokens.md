@@ -19,11 +19,9 @@
 ![30DaysOfPython](../images/java_banner3@2x.png)
 
 - [📘 Java Tokens](#-java-tokens)
-  - [Keywords](#Keywords)
+  - [Keywords](#keywords)
   - [Identifiers](#identifiers)
   - [Literals](#literals)
-    - [Declaring Multiple Variable in a Line](#declaring-multiple-variable-in-a-line)
-  - [Data Types](#data-types)
   - [Checking Data types and Casting](#checking-data-types-and-casting)
   - [Numbers](#numbers)
   - [💻 Exercises - Day 2](#-exercises---day-2)
