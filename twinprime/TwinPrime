@@ -1,0 +1,12 @@
+package twinprime;
+import java.util.Scanner;
+public class TwinPrime{
+    public static void main(String[] args){
+        Scanner sn;
+        sn=new Scanner(System.in);
+        System.out.print("Enter the staring value of the range ");
+        start=sn.nextInt();
+        System.out.print("Enter the ending value of the range ");
+        end=sn.nextInt();
+    }
+}
